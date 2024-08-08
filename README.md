@@ -1,6 +1,8 @@
 # Final Project of NTHU EE 6485 Computer Vision
 Final report can be found in [link](CV_final_report.pdf).
 
+# Below are original author's work
+
 # mmrotate-dcfl
 Official implementation for the CVPR23 paper: Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection. [arxiv](https://arxiv.org/abs/2304.08876)
 
